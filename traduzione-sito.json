@@ -1,0 +1,51 @@
+{
+  "home": {
+    "it": "Home",
+    "en": "Home",
+    "es": "Home",
+    "fr": "Home",
+    "de": "Home"
+  },
+  "prodotti": {
+    "it": "Shop",
+    "en": "Shop",
+    "es": "Shop",
+    "fr": "Shop",
+    "de": "Shop"
+  },
+  "contatti": {
+    "it": "Contatti",
+    "en": "Contacts",
+    "es": "Contactos",
+    "fr": "Contacts",
+    "de": "Kontakte"
+  },
+  "chisiamo": {
+    "it": "Chi siamo",
+    "en": "Who we are",
+    "es": "Quienes somos",
+    "fr": "Qui sommes nous",
+    "de": "Wer wir sind"
+  },
+  "cgv": {
+    "it": "Condizioni generali di vendita",
+    "en": "General conditions of sale",
+    "es": "Condiciones generales de venta",
+    "fr": "Conditions générales de vente",
+    "de": "Allgemeine Verkaufsbedingungen"
+  },
+  "informativaprivacy": {
+    "it": "Informativa sulla privacy",
+    "en": "Privacy Policy",
+    "es": "Política de privacidad",
+    "fr": "Politique de confidentialité",
+    "de": "Datenschutzerklärung"
+  },
+  "tuttidirittiriservati": {
+    "it": "© 2019 Decoresin S.r.l. - IVA IT02624480600 - Tutti i diritti sono riservati",
+    "en": "© 2019 Decoresin S.r.l. - VAT IT02624480600 - All rights reserved",
+    "es": "© 2019 Decoresin S.r.l. - NIF IT02624480600 - Todos los derechos reservados",
+    "fr": "© 2019 Decoresin S.r.l. - TVA IT02624480600 - Tous droits réservés",
+    "de": "© 2019 Decoresin S.r.l. - VAT IT02624480600 - Alle rechte vorbehalten"
+  }
+}
