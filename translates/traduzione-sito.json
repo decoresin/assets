@@ -47,5 +47,12 @@
     "es": "© 2019 Decoresin S.r.l. - NIF IT02624480600 - Todos los derechos reservados",
     "fr": "© 2019 Decoresin S.r.l. - TVA IT02624480600 - Tous droits réservés",
     "de": "© 2019 Decoresin S.r.l. - VAT IT02624480600 - Alle rechte vorbehalten"
+  },
+  "underconstruction": {
+    "it": "Sito in costruzione",
+    "en": "underconstruction",
+    "es": "underconstruction",
+    "fr": "underconstruction",
+    "de": "underconstruction"
   }
 }
