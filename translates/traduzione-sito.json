@@ -61,5 +61,33 @@
     "es": "OOPS !!! Página no encontrada",
     "fr": "OOPS !!! Page non trouvée",
     "de": "OOPS !!! Seite nicht gefunden"
+  },
+  "prodottiinitalia": {
+    "it": "Prodotti in Italia",
+    "en": "Made in Italy",
+    "es": "Producidos en Italia",
+    "fr": "Produits en Italie",
+    "de": "Hergestellt in Italien"
+  },
+  "spedizioniveloci": {
+    "it": "Spedizioni veloci",
+    "en": "Fast shipments",
+    "es": "Envío rapido",
+    "fr": "Expéditions rapides",
+    "de": "Schnelle Lieferung"
+  },
+  "pagamentosicuro": {
+    "it": "Pagamento sicuro",
+    "en": "Secure payment",
+    "es": "Pago seguro",
+    "fr": "Paiement sécurisé",
+    "de": "Sichere Zahlung"
+  },
+  "prodotticertificati": {
+    "it": "Prodotti certificati",
+    "en": "Certified products",
+    "es": "Productos certificados",
+    "fr": "Produits certifiés",
+    "de": "Zertifizierte Produkte"
   }
 }
