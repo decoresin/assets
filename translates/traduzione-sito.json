@@ -54,5 +54,12 @@
     "es": "underconstruction",
     "fr": "underconstruction",
     "de": "underconstruction"
+  },
+  "oopspagenotfound": {
+    "it": "OOPS !!! Pagina non trovata",
+    "en": "OOPS !!! Page not found",
+    "es": "OOPS !!! Página no encontrada",
+    "fr": "OOPS !!! Page non trouvée",
+    "de": "OOPS !!! Seite nicht gefunden"
   }
 }
